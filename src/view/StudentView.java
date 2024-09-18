@@ -4,10 +4,6 @@ import model.Student;
 
 public class StudentView {
 
-    public void printHello(){
-        System.out.println("Привет юзер! o/");
-    }
-
     public void printCreate(){
         System.out.println("Введите данные для добавления студента");
     }
